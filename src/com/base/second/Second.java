@@ -9,5 +9,6 @@ public class Second {
 
 	void test() {
 		System.out.println("Added final comment");
+		System.out.println("done");
 	}
 }
