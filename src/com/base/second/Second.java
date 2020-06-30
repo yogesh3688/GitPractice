@@ -7,4 +7,7 @@ public class Second {
 		System.out.println("second");
 	}
 
+	void test() {
+		System.out.println("Added final comment");
+	}
 }
