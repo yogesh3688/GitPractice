@@ -7,4 +7,7 @@ public class Second {
 		System.out.println("second");
 	}
 
+	public void addOne() {
+		System.out.println("addOne");
+	}
 }
